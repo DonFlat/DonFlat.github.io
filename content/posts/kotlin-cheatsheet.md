@@ -1,8 +1,8 @@
 ---
-title: Title of the post
+title: Kotlin CheatSheet
 description:
-date: 2024/05/26
-draft: true
+date: 2024-05-26
+draft: false
 tags: [Kotlin]
 ---
 #### Swapping two numbers:
