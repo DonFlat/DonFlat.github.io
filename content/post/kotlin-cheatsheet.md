@@ -1,6 +1,6 @@
 ---
 title: Kotlin CheatSheet
-description:
+description: Common Kotlin operations in LeetCode
 date: 2024-05-26
 draft: false
 tags: [Kotlin]
