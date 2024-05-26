@@ -1,0 +1,4 @@
+baseURL = 'https://DonFlat.github.io/'
+languageCode = 'en-us'
+title = 'the dlog'
+theme = 'archie'
